@@ -32,12 +32,12 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Portfolio Website",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"React website built for my portfolio. You're on it right now!",
 			logo: "../react.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/legault12/portfolio",
 		},
 
 		{
@@ -62,7 +62,7 @@ const INFO = {
 			title: "Project 4",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "../javascript.png",
+			logo: "../nextjs.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
