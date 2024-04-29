@@ -30,17 +30,6 @@ const Socials = () => {
 				</a>
 			</div>
 			<div className="social">
-				<a href={INFO.socials.twitter} target="_blank" rel="noreferrer">
-					<div className="social-icon">
-						<FontAwesomeIcon
-							icon={faXTwitter}
-							className="social-icon"
-						/>
-					</div>
-					<div className="social-text">Follow on X</div>
-				</a>
-			</div>
-			<div className="social">
 				<a href={INFO.socials.github} target="_blank" rel="noreferrer">
 					<div className="social-icon">
 						<FontAwesomeIcon
@@ -49,6 +38,17 @@ const Socials = () => {
 						/>
 					</div>
 					<div className="social-text">Follow on GitHub</div>
+				</a>
+			</div>
+			<div className="social">
+				<a href={INFO.socials.twitter} target="_blank" rel="noreferrer">
+					<div className="social-icon">
+						<FontAwesomeIcon
+							icon={faXTwitter}
+							className="social-icon"
+						/>
+					</div>
+					<div className="social-text">Follow on X</div>
 				</a>
 			</div>
 			<div className="email">

@@ -7,8 +7,8 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://x.com/",
-		github: "https://github.com/",
+		twitter: "https://twitter.com/legault12/",
+		github: "https://github.com/legault12/",
 		linkedin: "https://www.linkedin.com/in/marcuslegault/",
 	},
 
