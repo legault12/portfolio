@@ -9,9 +9,9 @@
 }
 
 .all-projects-project {
-	width: calc(100% / 3);
+	width: calc(100% / 4);
 	box-sizing: border-box;
-	padding: 10px;
+	padding: 5px;
 	overflow: hidden;
 }
 

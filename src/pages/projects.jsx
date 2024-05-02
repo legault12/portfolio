@@ -38,13 +38,6 @@ const Projects = () => {
 						</div>
 					</div>
 					<div className="projects-container">
-						{/* <div className="title projects-title">
-							Things I’ve been working on.
-						</div> */}
-
-						{/* <div className="subtitle projects-subtitle">
-						</div> */}
-
 						<div className="projects-list">
 							<AllProjects />
 						</div>

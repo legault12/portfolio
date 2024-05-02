@@ -50,30 +50,21 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3",
+			title: "Site Monitoring API",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"An API for pulling site status from a database. Written in Typescript.",
 			logo: "../typescript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/legault12/uptime-api",
 		},
 
 		{
-			title: "Project 4",
+			title: "Banking System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "../nextjs.png",
+				"Simple banking system I created for practicing Java.",
+			logo: "../java.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "../html.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/legault12/banking_system",
 		},
 	],
 };
