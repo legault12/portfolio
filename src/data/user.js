@@ -15,7 +15,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer, coffee enthusiast, amateur pilot",
 		description:
-			"I am a seasoned web developer with over nine years of experience in both front-end and back-end development. Skilled in technologies such as HTML, CSS, JavaScript, React, Next.js, TypeScript, .NET Core, C#, and SQL, I specialize in creating efficient, high-quality web solutions. With a strong track record in team leadership and project management, I am adept at delivering projects that meet stringent timelines and exceed expectations. I am committed to continuous learning and applying the best practices in web development, with a particular focus on modern JavaScript frameworks and libraries."
+			"I am a seasoned web developer with over nine years of experience in both front-end and back-end development. Skilled in technologies such as React, Next.js, JavaScript, TypeScript, .NET Core, C#, Python, and SQL, I specialize in creating efficient, high-quality web solutions. With a strong track record in team leadership and project management, I am adept at delivering projects that meet stringent timelines and exceed expectations. I am committed to continuous learning and applying the best practices in web development, with a particular focus on modern JavaScript frameworks and libraries."
 	},
 
 	about: {
